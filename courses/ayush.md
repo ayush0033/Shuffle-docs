@@ -8,14 +8,3 @@ upto 12 Hours
 
 Academic Qualification
 Requirements
-
-<video
-    width="600"
-    height="315"
-    style={{ margin: "0px auto 0px auto", width: 560, height: 315, }}
-    src="https://www.youtube-nocookie.com/embed/rO7k9q3OgC0"
-    title="Introduction video"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-></video>
