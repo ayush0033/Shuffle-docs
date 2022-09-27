@@ -9,7 +9,7 @@ upto 12 Hours
 Academic Qualification
 Requirements
 
-<iframe
+<video
     width="600"
     height="315"
     style={{ margin: "0px auto 0px auto", width: 560, height: 315, }}
@@ -18,4 +18,4 @@ Requirements
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
-></iframe>
+></video>
